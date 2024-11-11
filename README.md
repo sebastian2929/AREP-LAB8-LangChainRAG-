@@ -14,6 +14,9 @@ El notebook sigue una estructura modular y comprende los siguientes componentes 
 
 **3.** **Implementación y Configuración de RAG:** El núcleo del notebook incluye configuraciones avanzadas para la recuperación de información utilizando LangChain. La implementación específica puede incluir pasos para cargar datos, crear una base de conocimiento o indexación, y optimizar el acceso a través de consultas de lenguaje natural.
 
+![image](https://github.com/user-attachments/assets/b1b80e09-21ab-4838-a193-e4989c2b1b74)
+
+
 ## Instalación y Ejecución
 Sigue los siguientes pasos para instalar las dependencias y ejecutar el proyecto en un entorno de Jupyter Notebook:
 
@@ -42,8 +45,11 @@ os.environ["LANGCHAIN_API_KEY"] = getpass.getpass("Ingresa tu clave de API de La
 **4. Ejecutar el Notebook:**
 Ejecuta el resto de las celdas en el notebook para ver el funcionamiento completo de RAG, incluyendo ejemplos de recuperación de información.
 
-## Ejemplo de Uso
+## Prueba
 
+[Respuesta final del laboratorio](RespuestaFinal.txt)
+
+![image](https://github.com/user-attachments/assets/bf4a6e4c-e642-40cc-b202-1b23ecaed234)
 
 
 ## Autor
