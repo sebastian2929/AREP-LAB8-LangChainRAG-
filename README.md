@@ -47,7 +47,7 @@ Ejecuta el resto de las celdas en el notebook para ver el funcionamiento complet
 
 ## Prueba
 
-[Respuesta final del laboratorio](RespuestaFinal.txt)
+Respuesta final del laboratorio 👉 [📄](RespuestaFinal.txt)
 
 ![image](https://github.com/user-attachments/assets/bf4a6e4c-e642-40cc-b202-1b23ecaed234)
 
