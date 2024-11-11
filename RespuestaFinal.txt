@@ -1,0 +1,3 @@
+"Task decomposition is the process of breaking down a complex task into smaller, manageable steps to facilitate planning and execution. Techniques like Chain of Thought (CoT) and Tree of Thoughts allow models to structure their reasoning and explore multiple possibilities for solving problems. 
+This approach enhances model performance and provides insight into the model's thinking process. 
+Thanks for asking!"
